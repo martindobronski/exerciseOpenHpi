@@ -5,7 +5,7 @@ Damit soll git ein wenig deutlicher gemacht werden. Uebungen dienen zur praktisc
 * Ehrlich
 * Treu
 * Freundlich
+
 Der Charakter sagt:
-> sei immmer
-> clever and smart
+> sei immmer clever and smart
 

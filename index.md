@@ -9,3 +9,5 @@ Damit soll git ein wenig deutlicher gemacht werden. Uebungen dienen zur praktisc
 Der Charakter sagt:
 > sei immmer clever and smart
 
+<img src="bus-picture.jpeg">
+
